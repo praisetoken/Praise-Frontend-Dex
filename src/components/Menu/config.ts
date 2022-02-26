@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://siacashcoin.com',
+    href: 'https://praisetokens.pro',
   },
   {
     label: 'Trade',
@@ -21,15 +21,7 @@ const config: MenuEntry[] = [
       },
     ],
   },
-  {
-    label: 'SCC Farms',
-    icon: 'FarmIcon',
-    href: 'https://siacashcoin.com/farms',
-  },
-  {
-    label: 'SCC Pools',
-    icon: 'PoolIcon',
-    href: 'https://siacashcoin.com/syrup',
+  
   },
   // {
   //   label: 'Lottery',
