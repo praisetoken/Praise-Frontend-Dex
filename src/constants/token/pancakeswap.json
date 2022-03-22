@@ -233,7 +233,7 @@
         "symbol": "MRXb",
         "address": "0x767B28a30E3a15DCEcE7bFF7a020ADfdE9D19cf8",
         "chainId": 56,
-        "decimals": 18,
+        "decimals": 8,
         "logoURI": "/images/coins/MRXb.png"  
       },   
       {
