@@ -58,6 +58,14 @@
         "logoURI": "/images/coins/BUSD.png"
       },
       {
+        "name": "Shiba Token",
+        "symbol": "SHIB",
+        "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/SHIB.png"
+      },  
+      {
         "name": "SiaCashCoin",
         "symbol": "SCC",
         "address": "0xc26EaFC627624baDf990f8d30116892eD204DB51",
