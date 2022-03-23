@@ -235,7 +235,15 @@
         "chainId": 56,
         "decimals": 8,
         "logoURI": "/images/coins/MRXb.png"  
-      },   
+      }, 
+      {
+        "name": "Wrapped Rapids",
+        "symbol": "BRPD",
+        "address": "0x1e2cDDA8Dd439e3953A6f43d1A2a7a4C3af39922",
+        "chainId": 56,
+        "decimals": 8,
+        "logoURI": "/images/coins/BRPD.png"  
+      },  
       {
         "name": "Binance-Peg USD Coin",
         "symbol": "USDC",
